@@ -1,0 +1,48 @@
+/** {
+    border: 1px dashed red;
+}*/
+
+h1 {
+    color: #78777C;
+}
+
+h1 {
+    font-family: 'Grand Hotel', cursive;
+}
+
+i.fa-instagram {
+    font-size: 35px;
+}
+
+i.fa-cog {
+    font-size: 20px;
+}
+
+.fa-th {
+    font-size: 20px;
+}
+
+.fa-square {
+    font-size: 15px;
+}
+
+/*.nav-item  #78777C
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #78777C;
+}
+
+*/
+
+.feedmode {
+    width: 50px;
+    height: 50px;
+}
+
+.pageheader {
+    color: #78777C;
+}
+
+.card-body-fluid > img {
+    width: 100%;
+}
